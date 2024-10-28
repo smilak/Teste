@@ -1,7 +1,7 @@
 import segno
 
 # Dados que você quer codificar no QR Code
-data = "https://www.google.com"
+data = "https://www.google.com.br"
 
 # Gera o QR Code
 qr = segno.make(data)
